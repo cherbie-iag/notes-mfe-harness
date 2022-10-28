@@ -1,0 +1,20 @@
+{
+  "name": "notes-mfe-harness",
+  "version": "1.0.0",
+  "description": "Notes MFE harness repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "cd notes-mfe && npm run postinstall && cd ../stubs && npm run postinstall"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cherbie-iag/notes-mfe-harness.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cherbie-iag/notes-mfe-harness/issues"
+  },
+  "homepage": "https://github.com/cherbie-iag/notes-mfe-harness#readme"
+}
