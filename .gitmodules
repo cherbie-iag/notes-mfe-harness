@@ -1,0 +1,6 @@
+[submodule "notes-mfe"]
+	path = notes-mfe
+	url = git@github.com:iag-digital-platform/notes-mfe.git
+[submodule "stubs"]
+	path = stubs
+	url = git@github.com:iag-digital-platform/cep-mfe-stubs.git
